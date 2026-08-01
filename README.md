@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [yfwp] 👋
+# Hi, I'm yfwp 👋
 
 ### Software Developer
 
