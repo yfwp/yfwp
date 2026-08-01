@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy [yfwp]!
 
 ### 💻 Desarrollador de Software
 
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=for-the-badge&color=blue)](https://github.com/tu-usuario)
-[![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&style=for-the-badge&color=blueviolet)](https://github.com/tu-usuario)
+[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=for-the-badge&color=blue)](https://github.com/yfwp)
+[![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&style=for-the-badge&color=blueviolet)](https://github.com/yfwp)
 
 </div>
 
