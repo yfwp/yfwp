@@ -1,6 +1,6 @@
 # XOW
 
-Founder of [Break.gg](https://break.gg).
+Founder of [Break.gg](https://discord.gg/vTeNDfmvxn).
 
 Hosting and services for gamers and game communities.
 
