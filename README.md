@@ -8,4 +8,4 @@ Hosting and services for gamers and game communities.
 
 **Support:** [Discord](https://discord.gg/vTeNDfmvxn)
 
-**Stack:** C# · .NET · JavaScript · Cloudflare Workers
+**Stack:** C# · .NET · JavaScript · Python · Cloudflare Workers
