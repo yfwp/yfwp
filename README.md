@@ -1,4 +1,4 @@
-# XOW
+# *XOW*
 
 Founder of [Break.gg](https://discord.gg/vTeNDfmvxn).
 
